@@ -1,4 +1,4 @@
-## 👨‍💻 About Me
+<div align = center> ## 👨‍💻 About Me <div>
 
 ```python
 class MarcosPaulo:
