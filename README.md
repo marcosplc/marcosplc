@@ -25,17 +25,7 @@ class MarcosPaulo:
 
 me = MarcosPaulo()
 me.say_hello()
-````
-
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e estagiário de Desenvolvimento de Sistemas e Data Science na Uni9.
-
-Tenho interesse em desenvolvimento Full Stack, Inteligência Artificial, automação e engenharia de dados. Busco aprender construindo projetos práticos e desenvolvendo soluções para problemas reais.
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💻 Atuando com desenvolvimento de sistemas e projetos de dados
-- 🌱 Estudando Python, PHP, JavaScript, SQL e tecnologias de dados
-- 🤖 Explorando automação e Inteligência Artificial
-- 🤝 Aberto a projetos e colaborações em tecnologia
+```
 
 # 🧰 Languages & Technologies
 
@@ -73,4 +63,6 @@ Confira meus repositórios para acompanhar meus projetos de desenvolvimento, aut
 # 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosplc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/marcos-costa-8ba129260/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-costa-8ba129260/)
+
+
