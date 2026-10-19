@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi guys, I’m Marcos Costa!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt = description>
-</p>
 ## 👨‍💻 About Me
 
 ```python
-# seu código aqui
 class MarcosPaulo:
     def __init__(self):
         self.name = "Marcos Paulo"
@@ -58,10 +54,6 @@ me.say_hello()
 # 🚀 Featured Projects
 
 Confira meus repositórios para acompanhar meus projetos de desenvolvimento, automação e estudos em tecnologia.
-
-# 📈 Contribution Activity
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=marcosplc&theme=tokyo-night&hide_border=true)
 
 # 📫 Contact
 
