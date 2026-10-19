@@ -1,10 +1,49 @@
+# 👨‍💻 About Me
 
-## 🛠️ Tecnologias e ferramentas
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e estagiário de Desenvolvimento de Sistemas e Data Science na Uni9.
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,js,html,css,docker,git,github,vscode)](https://skillicons.dev)
+Tenho interesse em desenvolvimento Full Stack, Inteligência Artificial, automação e engenharia de dados. Busco aprender construindo projetos práticos e desenvolvendo soluções para problemas reais.
 
-## 📊 GitHub Stats
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Atuando com desenvolvimento de sistemas e projetos de dados
+- 🌱 Estudando Python, PHP, JavaScript, SQL e tecnologias de dados
+- 🤖 Explorando automação e Inteligência Artificial
+- 🤝 Aberto a projetos e colaborações em tecnologia
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosplc&show_icons=true&theme=tokyonight&hide_border=true)
+# 🧰 Languages & Technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosplc&layout=compact&theme=tokyonight&hide_border=true)
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Tools & Data
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+# 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+# 🚀 Featured Projects
+
+Confira meus repositórios para acompanhar meus projetos de desenvolvimento, automação e estudos em tecnologia.
+
+# 📈 Contribution Activity
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true)
+
+# 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
