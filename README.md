@@ -1,4 +1,4 @@
-<div align = center> <p> ## 👨‍💻 About Me </p> <div>
+## 👨‍💻 About Me
 
 ```python
 class MarcosPaulo:
