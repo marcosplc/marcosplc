@@ -33,7 +33,7 @@ Tenho interesse em desenvolvimento Full Stack, Inteligência Artificial, automa�
 
 # 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosplc&layout=compact&theme=tokyonight&hide_border=true)
 
 # 🚀 Featured Projects
 
@@ -41,9 +41,9 @@ Confira meus repositórios para acompanhar meus projetos de desenvolvimento, aut
 
 # 📈 Contribution Activity
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=marcosplc&theme=tokyo-night&hide_border=true)
 
 # 📫 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosplc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](marcos-costa-8ba129260)
