@@ -53,7 +53,7 @@ me.say_hello()
 
 # 🚀 Featured Projects
 
-Confira meus repositórios para acompanhar meus projetos de desenvolvimento, automação e estudos em tecnologia.
+Check out my repositories to follow my development and automation projects, as well as my studies in technology.
 
 # 📫 Contact
 
