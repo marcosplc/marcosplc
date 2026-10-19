@@ -26,7 +26,7 @@ me = MarcosPaulo()
 me.say_hello()
 ```
 
-```
+
 <center>
 # 🧰 Languages & Technologies
 
@@ -61,5 +61,5 @@ Check out my repositories to follow my development and automation projects, as w
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosplc)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-costa-8ba129260/)
-```
+
 
