@@ -26,7 +26,7 @@ me = MarcosPaulo()
 me.say_hello()
 ```
 
-<div align="left"> 
+<div align="center"> 
     
 ### 💻 Programming Languages
 
