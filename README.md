@@ -46,4 +46,4 @@ Confira meus repositórios para acompanhar meus projetos de desenvolvimento, aut
 # 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosplc)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([marcos-costa-8ba129260](https://www.linkedin.com/in/marcos-costa-8ba129260/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/marcos-costa-8ba129260/))
