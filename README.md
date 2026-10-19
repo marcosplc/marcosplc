@@ -27,7 +27,6 @@ me.say_hello()
 ```
 
 <div align="left"> 
-### 🧰 Languages & Technologies
     
 ### 💻 Programming Languages
 
